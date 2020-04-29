@@ -18,13 +18,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 - Clone the repository
 
     ```bash
-    git clone https://github.com/microsoft/botbuilder-samples.git
-    ```
-
-- In a terminal, navigate to `samples/javascript_nodejs/05.multi-turn-prompt`
-
-    ```bash
-    cd samples/javascript_nodejs/05.multi-turn-prompt
+    git clone https://github.com/NickSneo/simple_bot.git
     ```
 
 - Install modules
@@ -48,7 +42,6 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 ### Connect to the bot using Bot Framework Emulator
 
 - Launch Bot Framework Emulator
-- File -> Open Bot
 - Enter a Bot URL of `http://localhost:3978/api/messages`
 
 ## Prompts
